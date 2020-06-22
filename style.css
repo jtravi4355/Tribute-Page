@@ -58,8 +58,9 @@ ul {
 .quote {
   display: block;
   text-align: center;
-  width: 500px;
-  margin: 40px auto 40px auto;
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 0 10px;
   color: rgb(22, 22, 22);
 }
 
